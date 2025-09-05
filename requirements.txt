@@ -1,0 +1,13 @@
+cadquery
+datasets
+google
+huggingface_hub
+ipykernel
+jupyterlab
+openpyxl
+packaging
+pandas
+torch
+transformers
+wandb
+accelerate
